@@ -1,8 +1,7 @@
 # MSA Data Phase 2  
-Welcome to Phase 2 of the program!! <br> 
+
 <br>
-We will be focusing on sentiment analysis for Phase 2, and this will involve training your own classifier as well as using prebuilt sentiment models.
-<br>
+
 ---
 ### What you will learn
 * Data exploration and preparation using the NLTK package
