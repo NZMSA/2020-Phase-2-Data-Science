@@ -16,8 +16,8 @@ The comments csv file contains information of comments/replies made to each of t
 * Time - Timestamp of the comments
 * Upvote - Number of upvotes of the comment
 * Key - This is a key that associates each comment in the comments file with the post it belongs to in the posts file.<br>
-<br>
----
+---  
+
 ### The PRAW module
 Since you are not expected to scrap the Reddit API yourself I won't go into too much detail here. 
 But if you are interested, the link below is very beginner friendly and is also how I got started with PRAW.
