@@ -70,7 +70,8 @@ The comments csv file contains information of comments/replies made to each of t
 * Upvote - Number of upvotes of the comment
 * Key - This is a key that associates each comment in the comments file with the post it belongs to in the posts file.<br>
 <br>
----
+---  
+
 ### The PRAW module <a name="Pr"></a>
 But if you are interested, the link below is very beginner friendly and is also how I got started with PRAW.
 * https://www.privateproxyreviews.com/scrape-reddit-using-praw-python/#reddit-has-made-scraping-more-difficult-here-s-why
