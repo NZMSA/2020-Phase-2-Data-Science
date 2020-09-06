@@ -48,8 +48,7 @@ If you are using the code I wrote, then:
   
 * Make sure to test it with a small number of posts first to make sure it works! The maximum number of posts at a time is 500. But you might not need that much because each post
 can have up to several hundred replies so a hundred posts would give you probably ten thousand replies.  
-*Make sure you download the PRAW module into Python!
-  
+* Make sure you download the PRAW module into Python!
 * Unfortunately the API is rate limited so it will take a while if you are scraping a lot of data...  
 * Please ask on Discord if you run into problems with this! This is the first step of the project - we are ready to help you out the moment you ask :)
 
