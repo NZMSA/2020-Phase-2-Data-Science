@@ -40,12 +40,7 @@ https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk?utm_s
 https://www.tensorflow.org/tutorials/text/text_classification_rnn
   
 ---
-### Assessment
-1. Compete in the Kaggle challenge here: https://www.kaggle.com/c/sentiment-analysis-msa-phase-2 <br>
+### Assessment (General outline - refer to the assessment specifications document for full details)
+1. Compete in the Kaggle challenge here: https://www.kaggle.com/t/eade3863494042b8b7e051aaa9efabd3 <br>
 You will have to build your own model for this challenge
-2. Using the model you have built for the Kaggle challenge, run it on Reddit comments to obtain sentiments for them. We have scraped the Reddit data for you 
-and you can find it in the "Reddit data" folder on this Github page. The file you will be using is called "comments.csv".
-3. Use one of the prebuilt packages (Vader/TextBlob) to generate sentiments for the same Reddit data. Compare the results of your model against that
-of the prebuilt packages and comment briefly on differences.
-4. Generate a dashboard in PowerBi to visualize the Reddit comments as well as the predictions. Things you can consider are word clouds, most frequent
-bigrams, sentence lengths, sentiments at posts level (Recall that the sentiment predictions are for individual comments to the Reddit posts). 
+2. Develop a business case and extract data using either the Reddit API or webscraping techniques to solve it. You will need to perform general cleaning, exploration and sentiment analysis in your attempt to solve it.
