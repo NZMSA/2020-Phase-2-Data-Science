@@ -1,5 +1,5 @@
 # MSA Data Phase 2  
-Welcome to Phase 2 of the program!! <br>
+Welcome to Phase 2 - Data Science of the MSA program! <br>
 <br>
 We will be focusing on sentiment analysis for Phase 2, and this will involve training your own classifier as well as using prebuilt sentiment models.
 <br>
@@ -11,6 +11,7 @@ We will be focusing on sentiment analysis for Phase 2, and this will involve tra
 * Sentiment analysis using Recurrent Neural Network
 * PowerBi basics
 ---
+
 ### How to set up project
 
 For windows
@@ -46,3 +47,9 @@ https://www.tensorflow.org/tutorials/text/text_classification_rnn
 1. Compete in the Kaggle challenge here: https://www.kaggle.com/t/eade3863494042b8b7e051aaa9efabd3 <br>
 You will have to build your own model for this challenge
 2. Develop a business case and extract data using either the Reddit API or webscraping techniques to solve it. You will need to perform general cleaning, exploration and sentiment analysis in your attempt to solve it.
+
+## Stuck? 
+Post your question on our [facebook group](https://aka.ms/nzmsa) or on our [discord server](https://discord.gg/c4Y5SAZ)
+
+### Want to contribute? 
+We welcome all students to help us improve documentation for other students. If you find a typo or find something is unclear, please open a pull request or an issue and assign it to `LindaBot` 😀
