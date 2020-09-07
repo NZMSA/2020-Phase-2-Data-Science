@@ -46,7 +46,8 @@ https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk?utm_s
 https://www.tensorflow.org/tutorials/text/text_classification_rnn
 
 ---
-### Assessment (General outline - refer to the assessment specifications document for full details)
+### Assessment (General outline - refer to the assessment specifications document for full details) 
+Submissions close on **8AM 18th September 2020**.
 1. Compete in the Kaggle challenge here: https://www.kaggle.com/t/eade3863494042b8b7e051aaa9efabd3 <br>
 You will have to build your own model for this challenge
 2. Develop a business case and extract data using either the Reddit API or webscraping techniques to solve it. You will need to perform general cleaning, exploration and sentiment analysis in your attempt to solve it.
