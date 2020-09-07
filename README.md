@@ -9,7 +9,6 @@ We will be focusing on sentiment analysis for Phase 2, and this will involve tra
 * Data exploration and preparation using the NLTK package
 * Sentiment analysis using the TextBlob and Vader libraries (part of NLTK)
 * Sentiment analysis using Recurrent Neural Network
-* PowerBi basics
 ---
 
 ### How to set up project
