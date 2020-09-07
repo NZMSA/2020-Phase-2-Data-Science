@@ -11,6 +11,10 @@ We will be focusing on sentiment analysis for Phase 2, and this will involve tra
 * Sentiment analysis using Recurrent Neural Network
 ---
 
+# Phase 2 Video Playlist
+* [Watch phase 2 introduction](https://youtu.be/asH2eKlDJ9w)
+* [Data Science Playlist](https://www.youtube.com/playlist?list=PLYCDbAy3AHGYyZBfyrR80yqd9MZIoyZsP) (We will upload all the videos soon!)
+
 ### How to set up project
 
 For windows
